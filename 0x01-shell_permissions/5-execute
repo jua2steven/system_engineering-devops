@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# adds execute permission to the owner
+chmod u+x hello
